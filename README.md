@@ -1,8 +1,10 @@
 💫 Hi 👋, I'm Deepak Kushwaha
+<br>
 A passionate Cloud Engineer || DevOps Engineer 
-
+<br>
 Email Me 👉 ✉️ deepak0963344@gmail.com 😊😊
 😄 Pronouns: Deepak Sir
+<br>
 ⚡ Fun fact: I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushdpk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Deepak_xxu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepak_xxu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak0963344@gmail.com) 
